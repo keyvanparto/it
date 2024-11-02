@@ -5,5 +5,5 @@ order: 5
 ---
 
 <script>
-window.location.href = "https://google.com";
+window.location.href = "https://keyvanparto.github.io";
 </script>
