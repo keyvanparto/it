@@ -1,0 +1,8 @@
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Home
+  categories: Categorie
+  tags: Tags
+  archives: Tutti i post
+  about: About
